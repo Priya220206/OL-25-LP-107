@@ -123,7 +123,7 @@ def data_visualisation():
 
       if st.button("Show Insights for Treatment by Workplace Interference"):
         st.write("""
-        - **Treatment Seeking Behavior**: The countplot illustrates how individuals' 
+        - **Treatment Seeking Behavior**: The countplot illustrates how individual's 
                  decisions to seek treatment vary across different levels of workplace interference.
         - **Influence of Workplace Environment**: By examining the hue (workplace interference),
                   we can assess whether higher levels of workplace interference correlate with a greater likelihood of seeking treatment.
