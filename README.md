@@ -39,5 +39,22 @@ OL-ID
 
 ---
 
+## 🔗 Important Links  
+- **EDA Notebook:** [Link To EDA Notebook](https://github.com/Priya220206/OL-25-LP-107/blob/main/EDA.ipynb)
+- **Classification Notebook:** [Link to Classification Notebook](https://github.com/Priya220206/OL-25-LP-107/blob/main/Classification.ipynb)
+- **Regression Notebook:** [Link to Regression Notebook](https://github.com/Priya220206/OL-25-LP-107/blob/main/Regression.ipynb)
+- **Clustering Notebook:** [Link to Clustering Notebook](https://github.com/Priya220206/OL-25-LP-107/blob/main/Unsupervised_learning.ipynb)
+- **Streamlit App:** [Hosted App Link](https://capstone-project-ol-25-lp-107.streamlit.app/)  
+- **Technical Report:** [Link to Medium Blog](https://medium.com/@priyagupta22026/cracking-the-code-what-the-osmi-survey-tells-us-about-mental-health-in-tech-2aa8e254a5ed) 
 
+## Demo  
 
+Watch the project in action:  
+
+- **Streamlit App Demo:** [Click Here to View Demo](https://capstone-project-ol-25-lp-107.streamlit.app/)  
+
+---
+
+## Acknowledgements
+- Dataset Source: [Mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
+- OpenLearn Cohort 1.0 Mentors & Team
