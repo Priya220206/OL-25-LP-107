@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-pd.set_option('display.width',500)
+pd.set_option('display.width',None)
 
 from matplotlib import pyplot as plt
 import seaborn as sns
@@ -15,6 +15,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
 import streamlit as st
+from PIL import Image
 
 import warnings
 warnings.filterwarnings('ignore')
@@ -379,6 +380,9 @@ def clustering():
    st.markdown("**3. Prior experience with mental health issues 📑🔍** contains features like **family_history, work_interfere, mental_health_consequence, obs_consequences.**")
    
    st.divider()
+   st.subheader("CLustering Plot")
+   image=Image.open("clustering.png")
+   st.image(image,use_container_width=True)
 
    st.header("🧩Interpretation of Clusters")
    st.markdown("""#### **1. Cluster 0**
