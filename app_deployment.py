@@ -5,7 +5,6 @@ pd.set_option('display.width',None)
 from matplotlib import pyplot as plt
 import seaborn as sns
 
-from sklearn.cluster import KMeans
 from sklearn.metrics import r2_score, classification_report, mean_absolute_error, mean_squared_error, roc_auc_score, silhouette_score
 from sklearn.compose import ColumnTransformer
 from sklearn.model_selection import train_test_split
